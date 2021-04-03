@@ -1,6 +1,5 @@
-<img align="right" src="https://user-images.githubusercontent.com/29201788/113465982-1ea86880-9406-11eb-8cce-533a14d1d2ec.png" width="350"/>
-
 # Hello there 🖼
+<img align="right" src="https://raw.githubusercontent.com/dayanecristine/Aleatoriedades/main/Imagens/yo.png" width="350"/>
 
 ### 🌱 I’m currently learning:
 Design Patterns and Good Practices, to increase the quality of my software, Frameworks, APIs and new languages.
